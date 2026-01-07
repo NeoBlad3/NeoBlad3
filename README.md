@@ -2,7 +2,7 @@
 
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Blade" alt="Typing SVG" />
 
-![Views]([https://komarev.com/ghpvc/?username=NeoBlad3&color=FF00FF&style=flat-square&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=NeoBlad3-vrip&color=FF00FF&style=flat-square&label=PROFILE+VIEWS&base=61359))
+![Profile Views](https://komarev.com/ghpvc/?username=NeoBlad3-vrip&color=FF00FF&style=flat-square&label=PROFILE+VIEWS&base=61359)
 
 ---
 
